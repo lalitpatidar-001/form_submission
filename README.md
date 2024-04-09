@@ -10,7 +10,7 @@ git clone git@github.com:lalitpatidar-001/form_submission.git
 
 * Move to Root directory
 ```shell
-cd form-submission
+cd form_submission
 ```
 
 * Enoronment setup - create .env file in root of server folder and provide below variable values
